@@ -33,6 +33,8 @@ header{
     width: 1200px;
     position:relative;
     right:100px;
+   
+    
 
 }
 .ynet_logo{
@@ -102,7 +104,8 @@ nav{
     overflow: hidden;
     text-align: center;
     position: sticky;
-    right:100px
+    right:100px;
+    margin-bottom: -30px;
     
 
 }
@@ -127,6 +130,7 @@ table{
     height: 100px;
     position: relative;
     right:100px;
+    margin-bottom: -30px;
     
 }
 .table_text{
@@ -161,11 +165,14 @@ margin-right: 40px;
     height: 380px;
     position:relative;
     right:70px;
-    bottom:
+    margin-bottom: -20px;
 }
 #bibi{
     width: 690px;
     height: 450px;
+    margin-bottom: -30px;
+
+    
 
 }
 #sticky_commercial{
@@ -177,7 +184,8 @@ margin-right: 40px;
 }
 #sticky{
     position: sticky;
-}
+    
+}   
 
 #wheelchair{
     height: 43px;
@@ -238,8 +246,206 @@ margin-right: 40px;
     left:00px;
     top: -10px;
 }
+#bottom1{
+    position: relative;
+    width: 290px;
+    height: 580px;
+    bottom:380px
 
+}
+#bottom2{
+    position: relative;
+   bottom:640px;
+   width: 330px;
+    
 
+}
+#bottom3{
+    position: relative;
+    width: 330px;
+    height: 270px;
+    bottom:380px;
+    left:330px;
 
+}
+#bottom4{
+    position: relative;
+    width: 180px;
+    height: 130px;
+    bottom:780px;
+    left:330px;
 
+}
+#bottom4e{
+    position: relative;
+    width: 458px;
+    height: 130px;
+    bottom:915px;
+    left:315px;
+    background-color: red;
+    color: white;
+
+    right:810px;
+}
+.mover{
+    position: absolute;
+    right:15px;
+}
+#news2{
+    width: 640px;
+    height: 130px;
+    border-color:black ;
+    right:628px;
+    bottom: 920px;
+    position: relative;
+}
+.newsbig{
+position: absolute;
+width: 458px;
+height: 130px;
+bottom:0px;
+left:0px;
+background-color: red;
+color: white;
+}
+.newsbig2{
+    position: absolute;
+    width: 458px;
+    height: 130px;
+    bottom:0px;
+    left:0px;
+    background-color: rgb(56, 24, 129);
+    color: white;
+    }
+#news3{ width: 640px;
+    height: 130px;
+    border-color:black ;
+    right:628px;
+    bottom: 900px;
+    position: relative;
+}
+.newsbig3{
+    position: absolute;
+    width: 458px;
+    height: 130px;
+    bottom:0px;
+    left:0px;
+    background-color: red;
+    color: white;
+}
+#news4{ width: 640px;
+    height: 130px;
+    border-color:black ;
+    right:628px;
+    bottom: 900px;
+    position: relative;
+}
+
+.newsbig4{
+    position: absolute;
+    width: 458px;
+    height: 130px;
+    bottom:0px;
+    left:0px;
+    background-color: rgb(21, 5, 74);
+    color: white;
+}
+.bottom5{
+    width: 180px;
+    height: 130px;
+}
+#first_img{
+    margin-bottom: -30px;
+    position: relative;
+    right:70px;
+}
+#most{
+    width: 1308px;
+    height: 170px;
+    position: relative;
+    border-color:black ;
+    bottom:1020px;
+}
+#blue1{
+    width: 588px;
+    height: 30px;
+    position: absolute;
+    border-color:black ;
+    bottom:0px;
+    background-color: blue;
+}
+#blue2{
+    width: 638px;
+    height: 30px;
+    position: absolute;
+    border-color:black ;
+    bottom:0px;
+    background-color: blue;
+    right:630px;
+}
+#blue_img{
+    position: absolute;
+    width: 180px;
+    top: 200px;
+    height: 110px;
+    
+}
+#blue_img1{
+    position: absolute;
+    width: 180px;
+    top: 200px;
+    height: 110px;
+    left:40px;
+}
+#blue_img2{
+    position: absolute;
+    width: 180px;
+    top: 200px;
+    height: 110px;
+    right:200px;
+}
+#blue_img3{
+    position: absolute;
+    width: 180px;
+    top: 200px;
+    height: 110px;
+    right:630px;
+}
+.mover2{
+    position: absolute;
+    right:15px;
+    color:white;
+    top:-14px;
+}
+
+#blue_img4{
+    position: absolute;
+    width: 180px;
+    top: 200px;
+    height: 110px;
+    right:420px;
+}
+
+#blue_img5{
+    position: absolute;
+    width: 180px;
+    top: 200px;
+    height: 110px;
+    right:870px;
+}
+
+#table2{
+    width: 1220px;
+    height: 100px;
+    position: absolute;
+    top:310px;
+   right:0px;
+    background-color: white;
+}
+.table2_text{
+  
+    color:rgb(19, 17, 17);
+    height:25px;
+    text-align: center;
+}
 /* th:nth-last-of-type(2){border-none;} */
