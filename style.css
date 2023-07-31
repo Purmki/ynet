@@ -75,7 +75,7 @@ header{
     top: 90px;
     border-style:groove;
     border-color:#0b0a0a;
-    border-radius: 40%;
+    border-radius: 24%;
     border-width: 2px;   
 
 }
@@ -124,7 +124,7 @@ nav a{
 #more{
     border-style:groove;
     border-color:#fdfbfb;
-    border-radius: 40%;
+    border-radius: 20%;
     border-width: 2px;   
 }
 table{
@@ -137,7 +137,7 @@ table{
     
 }
 .table_text{
-    border-left:2px dashed;
+    border-left:2px dotted;
     color:rgb(19, 17, 17);
     height:25px;
     text-align: center;
